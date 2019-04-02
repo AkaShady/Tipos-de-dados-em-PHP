@@ -2,10 +2,10 @@
 
 //Tipos básicos:
 
-$nome ="Shady";//String
+$nome ="AkaShady";//String
 $site = 'https://github.com/AkaShady';//String
 
-$ano = 1999;//Integer
+$ano = 1500;//Integer
 $salario =  10000.99;//Float
 $bloqueado = false;//Boolean
 
